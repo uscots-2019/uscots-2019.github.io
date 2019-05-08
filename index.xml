@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USCOTS 2019: Evaluating Evidence</title>
+    <link>/</link>
+    <description>Recent content on USCOTS 2019: Evaluating Evidence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Goals The goals of this site are to teach the basics of using Github Classroom, mainly:
+ Participants will have created a github username and organization for their class. Particiapnts will learn how to add members to the organization and edit their privledges. Participants will have connected a github classroom to their organization. Participants will learn how to create various types of assignments for their students. 5. Participants will gain the student perspective of the various assignment types.</description>
+    </item>
+    
+    <item>
+      <title>Additional Resources</title>
+      <link>/additional-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/additional-resources/</guid>
+      <description>Additional Resources Free Training Github Education offers free individual training. Sign up for a session
+
+Happy Git with R Jenny Bryan wrote an amazing book about using R and github, it is definitely worth a read.
+
+Github and RStudio Below is the link to an excellent article by RStudio on how to connect R and Github.
+
+How Hadley Wickham uses Github A great video by Hadley Wickham on the benefits of using github.</description>
+    </item>
+    
+    <item>
+      <title>Connecting to Github Classroom</title>
+      <link>/classroom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom/</guid>
+      <description>Connecting Your Organization to Github Classroom The most basic way to use github in your classroom is to connect your organization to Github Classroom.
+ Go to the Github Classroom Main Page.  Click Sign in  Fill in your Github username and password:  Create New Classroom:  Click on your Organization / Grant Access to your Organization:  For this one, if you played with some settings for your organization you may see it in the available list.</description>
+    </item>
+    
+    <item>
+      <title>Creating Assignments</title>
+      <link>/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/assignments/</guid>
+      <description>Creating Assignments The first time you need to create an assignment, github has made it relatively simple with a Create Your first Assignment Button. Let&amp;rsquo;s do one more step before we proceed with this! Creating Assignment Repository One feature with github is we can create a repository with with an assignment outline, sample code, data, &amp;hellip;
+ In a new tab go to organization repository. https://github.com/organization-name  Once there, click on New.</description>
+    </item>
+    
+    <item>
+      <title>Github Organization</title>
+      <link>/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/organization/</guid>
+      <description>Creating a Github Organization Github allows for users to set up organizations where you can place material without it being all in your own github repository. This allows for some nice functionality:
+ Separates out personal content from your organization or class materials. Allows for additional administrators to have full access to repos. Allows for easy transfer of ownership.  How do we create one?  In the upper-right corner of any page, click your profile photo, then click Settings.</description>
+    </item>
+    
+  </channel>
+</rss>
