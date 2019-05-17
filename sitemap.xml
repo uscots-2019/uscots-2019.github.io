@@ -32,12 +32,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
